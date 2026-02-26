@@ -1,0 +1,1 @@
+A home project of a Radar built with an Arduino uno R3, a HC-SR04 hypersonic sensor, and a MG995 servo, the motor rolls 180 degrees while the hypersonic captures the distance, then translated using raylib to pixels.
